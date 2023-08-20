@@ -6,11 +6,8 @@ Summary of Projects:
 Question: Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
 Liam the owner of DriverPass, wanted us to design a cloud-based system whose purpose what to serve as a way to help train young adults for their DMV tests (for their learners and driver’s license). The system is to contain user-based roles where the experience and level of interaction with the system depend upon the user's role. 
-
 -Students: should be able to log in to their account to take online practice tests to help study for their DMV written test, and make reservations for behind-the-wheel driving with an instructor to prepare for their DMV driving test.
-
 -Teachers: should be able to make reservations for students on their behalf, manage or delete any reservation, and look up information regarding any reservation.
-
 -Admins: should be able to do everything a teacher can do, as well as add/delete/modify user accounts and inventory (such as vehicles and student packages).
 	
 Question: What did you do particularly well?
